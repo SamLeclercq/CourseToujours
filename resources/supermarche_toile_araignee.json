@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entr\u00e9e A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entr\u00e9e B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PetitD\u00e9j"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poisson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L\u00e9gumes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgel\u00e9s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caisse A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caisse B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caisse C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2,
+            10
+          ],
+          [
+            1,
+            8.5
+          ],
+          [
+            2,
+            6.5
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2,
+            10
+          ],
+          [
+            4,
+            8.5
+          ],
+          [
+            4,
+            6.5
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6,
+            10
+          ],
+          [
+            7,
+            8.5
+          ],
+          [
+            6,
+            6.5
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6,
+            10
+          ],
+          [
+            4,
+            8.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1,
+            8.5
+          ],
+          [
+            4,
+            8.5
+          ],
+          [
+            7,
+            8.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2,
+            6.5
+          ],
+          [
+            4,
+            6.5
+          ],
+          [
+            6,
+            6.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4,
+            6.5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      }
+    }
+  ]
+}
